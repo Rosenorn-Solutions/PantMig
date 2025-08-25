@@ -1,2 +1,13 @@
 # PantMig
+## Et projekt til fordel for alle og miljøet!
+
+
+PantMig skal fungere som en platform til at forbinde de folk der ønsker at donere deres pan (eller bare gerne vil slippe for opgaven selv), og dem hvor pengene kan betyde meget! 
+
+I Danmark er vi generelt gode til at pante vores produkter igen - omkring 93% af den solgte pant kommer tilbage, men det kan enten gøres bedre, med højere procenter, eller på en anden måde. 
+
+For nogle er det halv-omstændigt at slæbe to store poser pant til den lokale automat, eller det er bare ikke en prioritet at få gjort - lad en tage opgaven, og se det hele give værdi. 
+
+
+I Danmark har vi allerede folk, der aktivt går på gaderne og samler panten smidt i skraldespandene - de ville få stor glæde i en pose ad gangen. 
 
