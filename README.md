@@ -11,5 +11,13 @@ For nogle er det halv-omstændigt at slæbe to store poser pant til den lokale a
 
 I Danmark har vi allerede folk, der aktivt går på gaderne og samler panten smidt i skraldespandene - de ville få stor glæde i en pose ad gangen. 
 
-Inline-style: 
-![alt text](https://github.com/Rosenorn-Solutions/PantMig/blob/main/PantMigUsecasePeterSara.png "Simpel forklaring på opgavernes flow")
+Simpel illustration af hvordan PantMig skal fungere: 
+![alt text](https://github.com/Rosenorn-Solutions/PantMig/blob/main/PantMigUsecasePeterSara.png "Simpel forklaring.")
+
+
+HVIS MULIGT skal der nusses regler, for at se om den donerede pant kan registreres passende, og potentielt direkte overføres til Skat (godt sentiment for at donere panten for nogle!). 
+
+Hvis IKKE det er muligt, får brugerne som minimum:
+    - Samlet rapport på værdien af donationer
+    - Samlet rapport på værdien i den genanvendte materiale
+    - "Score" til sammenligning med andre brugere 
