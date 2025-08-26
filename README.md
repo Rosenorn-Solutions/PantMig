@@ -21,3 +21,13 @@ Hvis IKKE det er muligt, får brugerne som minimum:
     - Samlet rapport på værdien af donationer
     - Samlet rapport på værdien i den genanvendte materiale
     - "Score" til sammenligning med andre brugere 
+
+
+
+## Techstack
+### Crossplatform solution
+
+PantMig er bygget på: 
+    - DaisyUI
+    - React
+    - MongoDB
