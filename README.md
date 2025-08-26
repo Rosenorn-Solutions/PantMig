@@ -28,7 +28,7 @@ Hvis IKKE det er muligt, får brugerne som minimum:
 ### Crossplatform solution
 
 PantMig er bygget på: 
-    - DaisyUI
-    - React
-    - MongoDB (JSON dokumenter)
-    -  
+   - DaisyUI
+   - React
+   - MongoDB (JSON dokumenter)
+   - C# 
