@@ -15,12 +15,15 @@ Simpel illustration af hvordan PantMig skal fungere:
 ![alt text](https://github.com/Rosenorn-Solutions/PantMig/blob/main/Documentation/Models/PantMigUsecasePeterSara.png "Simpel forklaring.")
 
 
-HVIS MULIGT skal der nusses regler, for at se om den donerede pant kan registreres passende, og potentielt direkte overføres til Skat (godt sentiment for at donere panten for nogle!). 
+En Bruger kan sætte et "I nærheden af mig"-punkt med en MAX radius, hvor de vil få vist eller subscribe til notifikation om opgaver i området. 
+Brugeren vil få vist Pant-opgaver, og nærmeste Pantmaskine inden for denne cirkel.  
+
+
+HVIS MULIGT skal der nusses regler, for at se om den donerede pant kan registreres passende, og potentielt direkte overføres til Skat (godt sentiment for at donere panten!). 
 
 Hvis IKKE det er muligt, får brugerne som minimum:
     - Samlet rapport på værdien af donationer
     - Samlet rapport på værdien i den genanvendte materiale
-    - "Score" til sammenligning med andre brugere 
 
 
 
