@@ -9,22 +9,23 @@ I Danmark er vi generelt gode til at pante vores produkter igen - omkring 93% af
 For nogle er det halv-omstændigt at slæbe to store poser pant til den lokale automat, eller det er bare ikke en prioritet at få gjort - lad en tage opgaven, og se det hele give værdi. 
 
 
-I Danmark har vi allerede folk, der aktivt går på gaderne og samler panten smidt i skraldespandene - de ville få stor glæde i en pose ad gangen. 
+I Danmark har vi allerede folk, der aktivt går på gaderne og samler panten smidt i skraldespandene - de ville få stor glæde i poser ad gangen. 
 
 Simpel illustration af hvordan PantMig skal fungere: 
 ![alt text](https://github.com/Rosenorn-Solutions/PantMig/blob/main/Documentation/Models/PantMigUsecasePeterSara.png "Simpel forklaring.")
 
 
 En Bruger kan sætte et "I nærheden af mig"-punkt med en MAX radius, hvor de vil få vist eller subscribe til notifikation om opgaver i området. 
-Brugeren vil få vist Pant-opgaver, og nærmeste Pantmaskine inden for denne cirkel.  
+Brugeren vil få vist Pant-opgaver, og nærmeste Pantmaskine inden for denne cirkel. 
 
+(HVIS MULIGT skal der nusses regler, for at se om den donerede pant kan registreres passende, og potentielt direkte overføres til Skat (godt sentiment for at donere panten!).)
 
-HVIS MULIGT skal der nusses regler, for at se om den donerede pant kan registreres passende, og potentielt direkte overføres til Skat (godt sentiment for at donere panten!). 
 
 Hvis IKKE det er muligt, får brugerne som minimum:
-    - Samlet rapport på værdien af donationer (cirka tal)
-    - Samlet rapport på værdien i den genanvendte materiale (cirka tal) 
-
+   - Delt rapport på hvornår en Opgave blev:  oprettet -> Taget -> Afsluttet 
+   - Samlet rapport på værdien af donationer (cirka tal)
+   - Samlet rapport på værdien i den genanvendte materiale (cirka tal)
+   - (Ønske) Mulighed for at tilføje "Følge"-tilstand på brugeren der Donerede panten. Hvis Donator godkender - kan der sendes direkte notifikationer, når der oprettet opgaver.
 
 
 ## Techstack
