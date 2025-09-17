@@ -35,3 +35,16 @@ PantMig er bygget på:
    - React
    - MongoDB (JSON dokumenter)
    - C# 
+
+
+Bruger Input og Samarbejde: 
+I Aalborg har Café PArasollen et program, Pantsjakket, der kører ud til afhentning af større mængder pant ved virksomheder og private. 
+Panten afregning sådan at brugere af Parasollen og arbejderne få en løn, der kan supplementere offentligstøtte eller pension, uden at tage i deres pension. 
+-> de parter har en direkte aftale mellem hinandne. 
+PantMig vil være 100% udenfor Pantsjakkets regi - så arbejdere vil ikke blive påvirket af indtægter fra opgaver taget via PantMig. 
+Ligeledes er PantMig ikke et direkte forbundet produkt til nogen velgørenhedsentitet med socialt arbejde - og derved også åben for deltagelse for alle. 
+
+
+
+
+
