@@ -36,6 +36,12 @@ PantMig er bygget på:
    - MongoDB (JSON dokumenter)
    - C# 
 
+## Brugerne
+For at beskytte og undgå diskriminerende adfærd på platformen, bliver der taget højde for: 
+   - Brugere får tildelt et automatisk brugernavn, der ikke kan ændres, baseret på dyreracer fra Danmarks natur + 2-3 bogstaver fra brugerens navn: Christine Larsen -> Skovmår-RCA, Lucas Rosenørn -> Tårnfalk_ELØ
+   - Pantere kan rate en Donator -> Upassende adfærd, manglende fremmøde, affald i pant osv., kan være en del af vurderingen. Pantere kan vurderes på -> Upassende adfærd, fremmøde.
+   - Hvis en bruger bliver vurderet som problematisk mere end tre gangen, vil der indsættes et ban-system. 
+
 ## Parasollen og Varmestuen
 Bruger Input og Samarbejde: 
 I Aalborg har Café Parasollen et program, Pantsjakket, der kører ud til afhentning af større mængder pant ved virksomheder og private. 
