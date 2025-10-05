@@ -1,0 +1,34 @@
+
+Solution description:
+PantMig is a web- and mobileapp (cross platform), where users can Create a tasks: submitting a post about Pant (can deposit) up for donation.
+The Pant can be reserved by a user, who will pick up the cans and get the Pant money.  
+
+Use Case, Peter and Sara: 
+Peter has a trashbag of Pant (50 cans, 1kr. deposit/can). Peter creates a poss:
+"Big bag of Pant" --> Amount: "50 kr.", Location: "Nyresvej 2, Storbyen", PicupTime: 17:00-19:00
++ Picture of Pant for donation
+
+The post is created, pinned on a live Map of Active Entries of Pant. 
+
+Sara is online and lives near Peter. Sara sees the new Entry, and reserve the tasks and donation. 
+
+Peter accepts Sara's request to Reserve the Pant. 
+The Entry is now "removed" from the Map, and other users can not see it. 
+
+When Sara picks up the Pant, Peter validates it in PantMig. 
+When Sara has panted the Pant, and received the Receipt from the Pant Machine, she ends the task by putting in the actual Pant Money Received and available for payout.
+The tasks is closed completely, put in a Historick stack of Peter (Total Donated Pant) and Sara (Total Received Pant) 
+
+
+
+
+
+
+A Panter (like Sara in Use Case, Peter and Sara) cannot have more than three active tasks - all tasks has to be completed before a new can be taken. 
+-> All tasks MUST be ended with Entry of Pant Money Received.
+
+No Panter can take tasks after reaching 350 DKKR Pant Money Received. Unless there is a x number of Panters per km^2 .
+
+
+
+
