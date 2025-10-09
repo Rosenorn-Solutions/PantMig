@@ -11,28 +11,6 @@ We already have a lot of people collecting pant on the streets, lookring through
 
 
 
-mindmap
-  root((Task lifecycle))
-    Donator
-      Create listing (title, amount, pickup window)
-      Approve recycler applicant
-      Share meeting point
-      Confirm pickup completion
-    Recycler
-      Subscribe to nearby tasks
-      Request pickup
-      Attend meeting point
-      Upload receipt image (optional)
-    Platform
-      Enforce max 3 active tasks per recycler
-      Cap recycler earnings at 350 DKK unless density rules allow【F:PantMig.txt†L23-L36】
-      Maintain audit trail for donations and recycling impact【F:PantMig.txt†L3-L22】
-
-
-
-
-
-
 
 # PantMig
 ## Et projekt til fordel for alle og miljøet!
