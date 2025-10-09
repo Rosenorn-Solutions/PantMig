@@ -5,8 +5,30 @@ PantMig is to function as a platform for connecting people, who wish to donate t
 
 In Denmark we are generally good at returning our recycleables, about 93% of the items with Pants gets returned, but we an do that better, and potentially redistribute the money. 
 
-For some it's a semi-grand task to get two bags of pant down to the local machine, or for some, it's just not a priority to do themselves - a segment of people we want to hit, and let others take the task and pant. 
+For some it's a big task to get two bags of pant down to the local machine, or for some, it's just not a priority to do themselves - a segment of people we want to hit, and let others take the task and pant. Have the entire task and end result give some value. 
 We already have a lot of people collecting pant on the streets, lookring through public trashcans, and they would get a lot potential 
+
+The following screenshots (coming) show the webpace and emulated Android/iOS PantMig app session.
+
+## Webpage Screenshots
+![alt_text]()
+
+
+## App Screenshots
+![alt_text]()
+
+### NGO's and Other interestgroups
+In Aalborg there is a "café" mainly targeting citizens with needs regarding food or a safe social environment away from streets and or the home. A lot of those people would especially have great use of this donation-based system. 
+
+Café Parasollen already has a program for collecting pant, but it's on a "contract"-based premise for the place and through Parasollen the users. They drive out and collect bigger amount of Pant from companies/ offies, and sometimes at private homes. 
+
+The values collected is calculted in a way by Parasollen, that it counts as a "salary", which supplement the social security benefits (førtidspension, kontanthjælp etc) or public pension, without the salary getting reduction in public payout. 
+
+PantMig would be 100% supplementary to the Parasollen projects, and the individual users can avoid getting the pant reducted against their income. 
+
+PantMig is NOT connected to any charity or NGO, and has no direct product to offer but the platform for donations. 
+
+PantMig get no cut from donated pant, or any specific 
 
 
 
@@ -20,7 +42,7 @@ PantMig skal fungere som en platform til at forbinde de folk der ønsker at done
 
 I Danmark er vi generelt gode til at pante vores produkter igen - omkring 93% af den solgte pant kommer tilbage, men det kan enten gøres bedre, med højere procenter, eller på en anden måde. 
 
-For nogle er det halv-omstændigt at slæbe to store poser pant til den lokale automat, eller det er bare ikke en prioritet at få gjort - lad en tage opgaven, og se det hele give værdi. 
+For nogle er det omstændigt at slæbe to store poser pant til den lokale automat, eller det er bare ikke en prioritet at få gjort - lad en tage opgaven, og se det hele give værdi. 
 
 
 I Danmark har vi allerede folk, der aktivt går på gaderne og samler panten smidt i skraldespandene - de ville få stor glæde i poser ad gangen. 
