@@ -1,8 +1,44 @@
 # PantMig
+## A project in favour of everybody and environment
+
+PantMig is to function as a platform for connecting people, who wish to donate their pant, and the people who will take the task for the payout of returned pant. 
+
+In Denmark we are generally good at returning our recycleables, about 93% of the items with Pants gets returned, but we an do that better, and potentially redistribute the money. 
+
+For some it's a semi-grand task to get two bags of pant down to the local machine, or for some, it's just not a priority to do themselves - a segment of people we want to hit, and let others take the task and pant. 
+We already have a lot of people collecting pant on the streets, lookring through public trashcans, and they would get a lot potential 
+
+
+
+
+mindmap
+  root((Task lifecycle))
+    Donator
+      Create listing (title, amount, pickup window)
+      Approve recycler applicant
+      Share meeting point
+      Confirm pickup completion
+    Recycler
+      Subscribe to nearby tasks
+      Request pickup
+      Attend meeting point
+      Upload receipt image (optional)
+    Platform
+      Enforce max 3 active tasks per recycler
+      Cap recycler earnings at 350 DKK unless density rules allow【F:PantMig.txt†L23-L36】
+      Maintain audit trail for donations and recycling impact【F:PantMig.txt†L3-L22】
+
+
+
+
+
+
+
+# PantMig
 ## Et projekt til fordel for alle og miljøet!
 
 
-PantMig skal fungere som en platform til at forbinde de folk der ønsker at donere deres pan (eller bare gerne vil slippe for opgaven selv), og dem hvor pengene kan betyde meget! 
+PantMig skal fungere som en platform til at forbinde de folk der ønsker at donere deres pant (eller bare gerne vil slippe for opgaven selv), og dem hvor pengene kan betyde meget! 
 
 I Danmark er vi generelt gode til at pante vores produkter igen - omkring 93% af den solgte pant kommer tilbage, men det kan enten gøres bedre, med højere procenter, eller på en anden måde. 
 
